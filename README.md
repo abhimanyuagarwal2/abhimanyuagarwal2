@@ -5,6 +5,7 @@
 - 🤔 I’m looking for help with Advance Mathematical concepts which will enable me to better analyse data and interpolate meaning from raw data.
 - 📫 You can reach out to me on my LinkedIn Profile: https://www.linkedin.com/in/abhimanyu-a-56193010a
 - You can also mail me at abhimanyuagarwal2@gmail.com
+- I am open to work and would appreciate if anyone can help me network out
 
 <!--
 **abhimanyuagarwal2/abhimanyuagarwal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
